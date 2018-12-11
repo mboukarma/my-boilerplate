@@ -1,6 +1,6 @@
 # My Awesome React Boilerplate
 
-this thing is the bomb dit com
+this is my own boilerplate
 
 ## Instrunctions
 
